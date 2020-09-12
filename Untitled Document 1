@@ -1,0 +1,15 @@
+Phan mem node to do
+app: main file
+public: chua cac resource tinh cho client truy cap
+views: chua cac file template cho client
+api: tao api de doc du lieu
+config: luu tru thong tin ve database
+
+app: initialize, khoi tao port, cau hinh de su dung cac middleware + tai nguyen tinh, doc kieu du lieu tu nguoi dung gui len la kieu json, doc kieu urlencoded
+	initialize app: gan express(vi express is a module to create application, and also a function
+	setup middleware: cau hinh route den tai nguyen tinh, lay cac tai nguyen tinh tu file public (phai create virtual path prefix(where the path does not actually exist in the file system))
+	setup views: load template engine ejs using view engine
+	setup route:  setup trang chu :/
+
+api: tao schema du lieu roi chia ra cho app.js
+trong app.js: thiet lap ket noi vs database

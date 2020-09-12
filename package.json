@@ -1,0 +1,22 @@
+{
+  "name": "node-todos",
+  "version": "1.0.0",
+  "description": "Single page todo application with Node and Angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node-todos"
+  ],
+  "author": "Dokka",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "morgan": "^1.10.0"
+  }
+}

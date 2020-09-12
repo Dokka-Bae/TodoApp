@@ -1,0 +1,12 @@
+RESTful API la tieu chuan trong viec thiet ke api cho cac ung dung web de tien quan ly resource. No chu trong vao tai nguyen he thong (tep van ban, am thanh, video, du lieu dong...), bao gom cac trang thai tai nguyen duoc dinh dang va duoc truyen tai qua http
+
+API la tap cac quy tac va co che ma theo do, 1 ung dung hay 1 thanh phan co the tuong tac voi ung dung hoac thanh phan khac
+REST la 1 kien truc de viet API. su dung phuong thuc HTTP don gian de giao tiep giua cac may thay vi su dung ca duong link URL (tuc la gui HTTP request nhu GET, POST, PUT, DELETE)
+
+RESTful API la 1 tieu chuan cho viec thiet ke API de quan ly cac resource, giup cho cac ung dung khac nhau(web, mobile) giao tiep dc voi nhau
+chuc nang quan trong nhat cua REST la quy dinh su dung cac dinh dang HTTP(GET, PUT, POST) va cac dinh dang URL de quan ly resource
+
+
+
+install angularJS Service de ket noi client vs database server
+Using service de xac dinh service dung cho controller
